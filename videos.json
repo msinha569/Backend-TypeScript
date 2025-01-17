@@ -1,0 +1,303 @@
+[
+    {
+      "videoFile": "video1.mp4",
+      "thumbnail": "thumbnail1.jpg",
+      "title": "Introduction to Programming",
+      "description": "Learn the basics of programming in this introductory video.",
+      "duration": 600,
+      "views": 102,
+      "isPublished": true,
+      "owner": "675c34c62a3a91be5eb4e59a"
+    },
+    {
+      "videoFile": "video2.mp4",
+      "thumbnail": "thumbnail2.jpg",
+      "title": "Advanced JavaScript",
+      "description": "Deep dive into advanced JavaScript concepts.",
+      "duration": 1200,
+      "views": 450,
+      "isPublished": true,
+      "owner": "675c34c62a3a91be5eb4e59a"
+    },
+    {
+      "videoFile": "video3.mp4",
+      "thumbnail": "thumbnail3.jpg",
+      "title": "Data Structures",
+      "description": "An overview of essential data structures in computer science.",
+      "duration": 900,
+      "views": 320,
+      "isPublished": true,
+      "owner": "675c34c62a3a91be5eb4e59a"
+    },
+    {
+      "videoFile": "video4.mp4",
+      "thumbnail": "thumbnail4.jpg",
+      "title": "Python for Beginners",
+      "description": "A beginner-friendly introduction to Python programming.",
+      "duration": 750,
+      "views": 205,
+      "isPublished": false,
+      "owner": "675c34c62a3a91be5eb4e59a"
+    },
+    {
+      "videoFile": "video5.mp4",
+      "thumbnail": "thumbnail5.jpg",
+      "title": "React Basics",
+      "description": "Learn the fundamentals of React.js in this video.",
+      "duration": 800,
+      "views": 540,
+      "isPublished": true,
+      "owner": "675c34c62a3a91be5eb4e59a"
+    },
+    {
+      "videoFile": "video6.mp4",
+      "thumbnail": "thumbnail6.jpg",
+      "title": "CSS Grid Tutorial",
+      "description": "Master CSS Grid layout techniques.",
+      "duration": 600,
+      "views": 340,
+      "isPublished": false,
+      "owner": "675c34c62a3a91be5eb4e59a"
+    },
+    {
+      "videoFile": "video7.mp4",
+      "thumbnail": "thumbnail7.jpg",
+      "title": "Version Control with Git",
+      "description": "Learn how to use Git for version control in your projects.",
+      "duration": 850,
+      "views": 280,
+      "isPublished": true,
+      "owner": "675c34c62a3a91be5eb4e59a"
+    },
+    {
+      "videoFile": "video8.mp4",
+      "thumbnail": "thumbnail8.jpg",
+      "title": "Machine Learning Basics",
+      "description": "Understand the fundamentals of machine learning.",
+      "duration": 1000,
+      "views": 500,
+      "isPublished": true,
+      "owner": "675c34c62a3a91be5eb4e59a"
+    },
+    {
+      "videoFile": "video9.mp4",
+      "thumbnail": "thumbnail9.jpg",
+      "title": "Node.js Crash Course",
+      "description": "Get started with Node.js in this crash course.",
+      "duration": 720,
+      "views": 390,
+      "isPublished": true,
+      "owner": "675c34c62a3a91be5eb4e59a"
+    },
+    {
+      "videoFile": "video10.mp4",
+      "thumbnail": "thumbnail10.jpg",
+      "title": "Responsive Web Design",
+      "description": "Learn how to create responsive web designs that look great on all devices.",
+      "duration": 650,
+      "views": 310,
+      "isPublished": false,
+      "owner": "675c34c62a3a91be5eb4e59a"
+    },
+    {
+      "videoFile": "video11.mp4",
+      "thumbnail": "thumbnail11.jpg",
+      "title": "Docker Essentials",
+      "description": "Introduction to containerization with Docker.",
+      "duration": 900,
+      "views": 250,
+      "isPublished": true,
+      "owner": "675c34c62a3a91be5eb4e59a"
+    },
+    {
+      "videoFile": "video12.mp4",
+      "thumbnail": "thumbnail12.jpg",
+      "title": "Kubernetes Overview",
+      "description": "Learn the basics of Kubernetes and container orchestration.",
+      "duration": 950,
+      "views": 210,
+      "isPublished": true,
+      "owner": "675c34c62a3a91be5eb4e59a"
+    },
+    {
+      "videoFile": "video13.mp4",
+      "thumbnail": "thumbnail13.jpg",
+      "title": "SQL Fundamentals",
+      "description": "Master the basics of SQL for database management.",
+      "duration": 700,
+      "views": 300,
+      "isPublished": false,
+      "owner": "675c34c62a3a91be5eb4e59a"
+    },
+    {
+      "videoFile": "video14.mp4",
+      "thumbnail": "thumbnail14.jpg",
+      "title": "GraphQL Basics",
+      "description": "Get started with GraphQL for modern APIs.",
+      "duration": 800,
+      "views": 350,
+      "isPublished": true,
+      "owner": "675c34c62a3a91be5eb4e59a"
+    },
+    {
+      "videoFile": "video15.mp4",
+      "thumbnail": "thumbnail15.jpg",
+      "title": "Blockchain Basics",
+      "description": "Understand blockchain technology and its use cases.",
+      "duration": 1200,
+      "views": 470,
+      "isPublished": true,
+      "owner": "675c34c62a3a91be5eb4e59a"
+    },
+    {
+      "videoFile": "video16.mp4",
+      "thumbnail": "thumbnail16.jpg",
+      "title": "AWS Essentials",
+      "description": "Learn the essentials of AWS cloud services.",
+      "duration": 950,
+      "views": 260,
+      "isPublished": true,
+      "owner": "675c34c62a3a91be5eb4e59a"
+    },
+    {
+      "videoFile": "video17.mp4",
+      "thumbnail": "thumbnail17.jpg",
+      "title": "Cybersecurity Fundamentals",
+      "description": "Learn the basics of cybersecurity and how to protect systems.",
+      "duration": 870,
+      "views": 200,
+      "isPublished": false,
+      "owner": "675c34c62a3a91be5eb4e59a"
+    },
+    {
+      "videoFile": "video18.mp4",
+      "thumbnail": "thumbnail18.jpg",
+      "title": "Linux Command Line",
+      "description": "Master the basics of Linux command-line operations.",
+      "duration": 680,
+      "views": 330,
+      "isPublished": true,
+      "owner": "675c34c62a3a91be5eb4e59a"
+    },
+    {
+      "videoFile": "video19.mp4",
+      "thumbnail": "thumbnail19.jpg",
+      "title": "Introduction to AI",
+      "description": "Understand the foundations of artificial intelligence.",
+      "duration": 1300,
+      "views": 490,
+      "isPublished": true,
+      "owner": "675c34c62a3a91be5eb4e59a"
+    },
+    {
+      "videoFile": "video20.mp4",
+      "thumbnail": "thumbnail20.jpg",
+      "title": "TypeScript for Developers",
+      "description": "Learn the essentials of TypeScript for modern development.",
+      "duration": 740,
+      "views": 380,
+      "isPublished": false,
+      "owner": "675c34c62a3a91be5eb4e59a"
+    },
+    {
+      "videoFile": "video21.mp4",
+      "thumbnail": "thumbnail21.jpg",
+      "title": "HTML5 and Web APIs",
+      "description": "Explore the new features of HTML5 and modern web APIs.",
+      "duration": 660,
+      "views": 290,
+      "isPublished": true,
+      "owner": "675c34c62a3a91be5eb4e59a"
+    },
+    {
+      "videoFile": "video22.mp4",
+      "thumbnail": "thumbnail22.jpg",
+      "title": "Java Basics",
+      "description": "An introduction to Java programming for beginners.",
+      "duration": 800,
+      "views": 400,
+      "isPublished": true,
+      "owner": "675c34c62a3a91be5eb4e59a"
+    },
+    {
+      "videoFile": "video23.mp4",
+      "thumbnail": "thumbnail23.jpg",
+      "title": "PHP Essentials",
+      "description": "Learn PHP programming for backend development.",
+      "duration": 720,
+      "views": 300,
+      "isPublished": true,
+      "owner": "675c34c62a3a91be5eb4e59a"
+    },
+    {
+      "videoFile": "video24.mp4",
+      "thumbnail": "thumbnail24.jpg",
+      "title": "DevOps Fundamentals",
+      "description": "Understand the principles of DevOps for modern development.",
+      "duration": 980,
+      "views": 430,
+      "isPublished": false,
+      "owner": "675c34c62a3a91be5eb4e59a"
+    },
+    {
+      "videoFile": "video25.mp4",
+      "thumbnail": "thumbnail25.jpg",
+      "title": "Full Stack Development",
+      "description": "Learn how to become a full-stack developer.",
+      "duration": 1100,
+      "views": 600,
+      "isPublished": true,
+      "owner": "675c34c62a3a91be5eb4e59a"
+    },
+    {
+      "videoFile": "video26.mp4",
+      "thumbnail": "thumbnail26.jpg",
+      "title": "Cloud Computing",
+      "description": "An introduction to cloud computing concepts.",
+      "duration": 850,
+      "views": 340,
+      "isPublished": true,
+      "owner": "675c34c62a3a91be5eb4e59a"
+    },
+    {
+      "videoFile": "video27.mp4",
+      "thumbnail": "thumbnail27.jpg",
+      "title": "Agile Methodologies",
+      "description": "Learn the principles and practices of Agile development.",
+      "duration": 780,
+      "views": 290,
+      "isPublished": true,
+      "owner": "675c34c62a3a91be5eb4e59a"
+    },
+    {
+      "videoFile": "video28.mp4",
+      "thumbnail": "thumbnail28.jpg",
+      "title": "Big Data Analysis",
+      "description": "Understand the fundamentals of big data and its applications.",
+      "duration": 1000,
+      "views": 500,
+      "isPublished": true,
+      "owner": "675c34c62a3a91be5eb4e59a"
+    },
+    {
+      "videoFile": "video29.mp4",
+      "thumbnail": "thumbnail29.jpg",
+      "title": "Artificial Neural Networks",
+      "description": "Learn the basics of artificial neural networks and deep learning.",
+      "duration": 1200,
+      "views": 480,
+      "isPublished": true,
+      "owner": "675c34c62a3a91be5eb4e59a"
+    },
+    {
+      "videoFile": "video30.mp4",
+      "thumbnail": "thumbnail30.jpg",
+      "title": "Python Advanced Techniques",
+      "description": "Explore advanced techniques in Python programming.",
+      "duration": 750,
+      "views": 300,
+      "isPublished": false,
+      "owner": "675c34c62a3a91be5eb4e59a"
+    }
+  ]
+  
